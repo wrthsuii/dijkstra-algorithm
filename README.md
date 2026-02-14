@@ -10,10 +10,10 @@ dijkstra-algorithm/
 │   ├── dijkstra.pl      # Реалізація на Prolog (345 рядків)
 │   └── README.md        # Опис Prolog реалізації
 ├── Haskell/
-│   ├── djikstra.hs      # Реалізація на Haskell (160 рядків)
+│   ├── dijkstra.hs      # Реалізація на Haskell (160 рядків)
 │   └── README.md        # Опис Haskell реалізації
 ├── Python/
-│   ├── djikstra.py      # Реалізація на Python (93 рядки)
+│   ├── dijkstra.py      # Реалізація на Python (93 рядки)
 │   └── README.md        # Опис Python реалізації
 ├── COMPARISON.md        # Детальне порівняння реалізацій
 └── README.md            # Цей файл

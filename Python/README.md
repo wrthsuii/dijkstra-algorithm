@@ -26,5 +26,5 @@ find_shortest_path(0, 4)
 ## Запуск
 
 ```bash
-python djikstra.py
+python dijkstra.py
 ```

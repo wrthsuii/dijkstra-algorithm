@@ -26,6 +26,6 @@ main = case shortestPath exampleGraph "A" "E" of
 ## Запуск
 
 ```bash
-ghc djikstra.hs -o dijkstra
+ghc dijkstra.hs -o dijkstra
 ./dijkstra
 ```
