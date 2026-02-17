@@ -1,6 +1,6 @@
 % ============================================================================
 % DIJKSTRA ALGORITHM - SHORTEST PATH IN WEIGHTED GRAPH
-% Author: Dima [Surname]
+% Authors: Avdieienko Dmytro (main), Aleksieienko Anastasiia, Tytarenko Vladyslava
 % Implementation of Dijkstra's algorithm in Prolog
 % ============================================================================
 
